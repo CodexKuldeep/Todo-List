@@ -117,13 +117,14 @@ function App() {
   return (
     <main className="h-screen my-8 flex gap-8">
       {/* <h1 className="my-8 text-center text-5xl font-bold">Hello World</h1> */}
-      <Sidebar 
+      {/* <Sidebar 
         onSelectAdd={handleStartAddproject} 
         projects={projects.projects} 
         onSelectProject={handleSelectProject}
         selectedProjectId={projects.selectedProjectId}
         />
-      {content}
+      {content} */}
+      <h1>Hiii Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem inventore corrupti molestiae quo harum vero, culpa, dolores molestias, deleniti atque adipisci illum repellendus corporis ab officia quos illo. Voluptatem?</h1>
     </main>
   );
 }
