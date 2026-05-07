@@ -125,6 +125,7 @@ function App() {
         />
       {content} */}
       <h1>Hiii Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem inventore corrupti molestiae quo harum vero, culpa, dolores molestias, deleniti atque adipisci illum repellendus corporis ab officia quos illo. Voluptatem?</h1>
+      <h2>Adding content as a person 2</h2>
     </main>
   );
 }
