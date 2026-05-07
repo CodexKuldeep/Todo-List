@@ -124,6 +124,7 @@ function App() {
         selectedProjectId={projects.selectedProjectId}
         />
       {content}
+      <h2>Adding content as a person 2</h2>
     </main>
   );
 }
