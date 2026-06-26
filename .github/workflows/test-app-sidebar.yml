@@ -22,4 +22,4 @@ jobs:
         run: npm ci
 
       - name: Run App Sidebar tests
-        run: npm test -- --runTestsByPath src\test\Sidebar.test.jsx
+        run: npm test -- src/test/Sidebar.test.jsx
